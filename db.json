@@ -1,0 +1,148 @@
+{
+    "users": [
+        {
+            "id": "u001",
+            "fullname": "John Smith",
+            "image": "https://randomuser.me/api/portraits/men/1.jpg",
+            "email": "John Smith@gmail.com"
+        },
+        {
+            "id": "u002",
+            "fullname": "Mary Johnson",
+            "image": "https://randomuser.me/api/portraits/women/2.jpg",
+            "email": "Mary Johnson@gmail.com"
+        },
+        {
+            "id": "u003",
+            "fullname": "David Lee",
+            "image": "https://randomuser.me/api/portraits/men/3.jpg",
+            "email": "David Lee@gmail.com"
+        },
+        {
+            "id": "u004",
+            "fullname": "Jessica Brown",
+            "image": "https://randomuser.me/api/portraits/women/4.jpg",
+            "email": "Jessica Brown@gmail.com"
+        },
+        {
+            "id": "u005",
+            "fullname": "Kevin Clark",
+            "image": "https://randomuser.me/api/portraits/men/5.jpg",
+            "email": "Kevin Clark@gmail.com"
+        },
+        {
+            "id": "u006",
+            "fullname": "Emily Davis",
+            "image": "https://randomuser.me/api/portraits/women/6.jpg",
+            "email": "Emily Davis@gmail.com"
+        },
+        {
+            "id": "u007",
+            "fullname": "Michael Gonzalez",
+            "image": "https://randomuser.me/api/portraits/men/7.jpg",
+            "email": "Michael Gonzalez@gmail.com"
+        },
+        {
+            "id": "u008",
+            "fullname": "Ashley Wilson",
+            "image": "https://randomuser.me/api/portraits/women/8.jpg",
+            "email": "Ashley Wilson@gmail.com"
+        },
+        {
+            "id": "u009",
+            "fullname": "Christopher Thomas",
+            "image": "https://randomuser.me/api/portraits/men/9.jpg",
+            "email": "Christopher Thomas@gmail.com"
+        },
+        {
+            "id": "u010",
+            "fullname": "Olivia Hernandez",
+            "image": "https://randomuser.me/api/portraits/women/10.jpg",
+            "email": "Olivia Hernandez@gmail.com"
+        },
+        {
+            "id": "u011",
+            "fullname": "Daniel Martin",
+            "image": "https://randomuser.me/api/portraits/men/11.jpg",
+            "email": "Daniel Martin@gmail.com"
+        },
+        {
+            "id": "u012",
+            "fullname": "Sophia Martinez",
+            "image": "https://randomuser.me/api/portraits/women/12.jpg",
+            "email": "Sophia Martinez@gmail.com"
+        },
+        {
+            "id": "u013",
+            "fullname": "Joshua Robinson",
+            "image": "https://randomuser.me/api/portraits/men/13.jpg",
+            "email": "Joshua Robinson@gmail.com"
+        },
+        {
+            "id": "u014",
+            "fullname": "Isabella Clark",
+            "image": "https://randomuser.me/api/portraits/women/14.jpg",
+            "email": "Isabella Clark@gmail.com"
+        },
+        {
+            "id": "u015",
+            "fullname": "William Young",
+            "image": "https://randomuser.me/api/portraits/men/15.jpg",
+            "email": "William Young@gmail.com"
+        },
+        {
+            "id": "u016",
+            "fullname": "Ava Allen",
+            "image": "https://randomuser.me/api/portraits/women/16.jpg",
+            "email": "Ava Allen@gmail.com"
+        },
+        {
+            "id": "u017",
+            "fullname": "Joseph Perez",
+            "image": "https://randomuser.me/api/portraits/men/17.jpg",
+            "email": "Joseph Perez@gmail.com"
+        },
+        {
+            "id": "u018",
+            "fullname": "Mia King",
+            "image": "https://randomuser.me/api/portraits/women/18.jpg",
+            "email": "Mia King@gmail.com"
+        },
+        {
+            "id": "u019",
+            "fullname": "David Baker",
+            "image": "https://randomuser.me/api/portraits/men/19.jpg",
+            "email": "David Baker@gmail.com"
+        },
+        {
+            "id": "u020",
+            "fullname": "Emma Wright",
+            "image": "https://randomuser.me/api/portraits/women/20.jpg",
+            "email": "Emma Wright@gmail.com"
+        },
+        {
+            "id": "u021",
+            "fullname": "Christopher Green",
+            "image": "https://randomuser.me/api/portraits/men/21.jpg",
+            "email": "Christopher Green@gmail.com"
+        },
+        {
+            "id": "u022",
+            "fullname": "Chloe Nelson",
+            "image": "https://randomuser.me/api/portraits/women/22.jpg",
+            "email": "Chloe Nelson@gmail.com"
+        },
+        {
+            "id": "u023",
+            "fullname": "Anthony Carter",
+            "image": "https://randomuser.me/api/portraits/men/23.jpg",
+            "email": "Anthony Carter@gmail.com"
+        },
+        {
+            "id": "u024",
+            "fullname": "Grace Hill",
+            "image": "https://randomuser.me/api/portraits/women/24.jpg",
+            "email": "Grace Hill@gmail.com"
+        }
+    ]
+}
